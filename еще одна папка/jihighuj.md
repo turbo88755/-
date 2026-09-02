@@ -4,4 +4,4 @@
 #### Как 4 
 ##### Как 5
 ###### Как 6 
-[переход куда то](https://github.com/turbo88755/-/edit/main/%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/dsjdis.md)
+[переход](https://github.com/turbo88755/-/edit/main/%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/dsjdis.md)
