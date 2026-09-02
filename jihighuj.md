@@ -1,1 +1,1 @@
-[переход](https://github.com/turbo88755/-/blob/main/dsjdis.md)
+[переход](https://github.com/turbo88755/-/edit/main/dsjdis.md)
